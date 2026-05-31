@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811189271096",
+    "project_id": "votacao-rainha-do-rodeio",
+    "storage_bucket": "votacao-rainha-do-rodeio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811189271096:android:ae09227ec5acec4dff44cd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOc3ppe3g5K3DMW4x_hXUbFirg2JvN4f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

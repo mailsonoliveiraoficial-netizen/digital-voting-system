@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "votacao-rainha-do-rodeio",
+          "appId": "1:811189271096:android:ae09227ec5acec4dff44cd",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "votacao-rainha-do-rodeio",
+          "configurations": {
+            "android": "1:811189271096:android:ae09227ec5acec4dff44cd",
+            "ios": "1:811189271096:ios:e5ff879bfcea01b7ff44cd",
+            "macos": "1:811189271096:ios:e5ff879bfcea01b7ff44cd",
+            "web": "1:811189271096:web:382e82eaba0074cdff44cd",
+            "windows": "1:811189271096:web:296272ef4013f22aff44cd"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
