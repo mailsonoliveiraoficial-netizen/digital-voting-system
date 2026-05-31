@@ -38,6 +38,20 @@ The platform prevents duplicate votes and provides administrators with a live da
 
 Successfully delivered and used in a municipal event.
 
+## Screenshots
+
+### Initial Screen
+
+![Initial Screen](assets/screenshots/inicial.jpeg)
+
+### Candidate Selection
+
+![Candidate Selection](assets/screenshots/candidatas.jpeg)
+
+### Real-Time Results Dashboard
+
+![Results Dashboard](assets/screenshots/resultado.jpeg)
+
 ## Author
 
 Mailson Oliveira
