@@ -42,15 +42,15 @@ Successfully delivered and used in a municipal event.
 
 ### Initial Screen
 
-![Initial Screen](assets/screenshots/inicial.jpeg)
+![Initial Screen](flutter_application_1/assets/screenshots/inicial.jpeg)
 
 ### Candidate Selection
 
-![Candidate Selection](assets/screenshots/candidatas.jpeg)
+![Candidate Selection](flutter_application_1/assets/screenshots/candidatas.jpeg)
 
 ### Real-Time Results Dashboard
 
-![Results Dashboard](assets/screenshots/resultado.jpeg)
+![Results Dashboard](flutter_application_1/assets/screenshots/resultado.jpeg)
 
 ## Author
 
