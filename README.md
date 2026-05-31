@@ -9,9 +9,7 @@ Digital Voting System was developed for municipal events and competitions, allow
 The platform prevents duplicate votes and provides administrators with a live dashboard showing rankings and voting statistics.
 
 ## Features
-Screenshots
-Initial Screen
-assets/screenshots/inicial.jpeg
+
 ### User Features
 
 * CPF Validation
