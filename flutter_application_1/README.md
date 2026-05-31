@@ -1,17 +1,44 @@
-# flutter_application_1
+# Digital Voting System
 
-A new Flutter project.
+Secure voting platform developed with Flutter and Firebase.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Digital Voting System was developed for municipal events and competitions, allowing citizens to vote securely through CPF validation and real-time vote counting.
 
-A few resources to get you started if this is your first Flutter project:
+The platform prevents duplicate votes and provides administrators with a live dashboard showing rankings and voting statistics.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### User Features
+
+* CPF Validation
+* Secure Authentication
+* One Vote Per User
+* Candidate Selection
+* Vote Confirmation
+
+### Administration
+
+* Real-Time Vote Counting
+* Candidate Ranking
+* Percentage Statistics
+* Live Dashboard
+* Vote Monitoring
+
+## Technology Stack
+
+* Flutter
+* Dart
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Hosting
+
+## Business Result
+
+Successfully delivered and used in a municipal event.
+
+## Author
+
+Mailson Oliveira
+Flutter Developer
